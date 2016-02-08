@@ -26,13 +26,13 @@ Analysis code:
 
 
 **Authors**:
-Nathanial Figueroa 
-* Co-author: RAIDER
-Xiaolin Liu
-Carly Schaeffer 
-* Co-author: phRAIDER
-* Contributed to developement of pipeline code.
 
-Dr. John Karro: Primary investigator
-* co-author: RAIDER, RAIDER_eval
-* Primary developer of simulation code, pipeline code, analysis code
+* Nathanial Figueroa 
+  * Co-author: RAIDER
+* Xiaolin Liu
+* Carly Schaeffer 
+  * Co-author: phRAIDER
+  * Contributed to developement of pipeline code.
+* **Dr. John Karro: Primary investigator**
+  * co-author: RAIDER, RAIDER_eval
+  * Primary developer of simulation code, pipeline code, analysis code
