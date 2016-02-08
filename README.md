@@ -33,6 +33,6 @@ Analysis code:
 * Carly Schaeffer 
   * Co-author: phRAIDER
   * Contributed to developement of pipeline code.
-* **Dr. John Karro: Primary investigator**
+* Dr. John Karro (Primary investigator)
   * co-author: RAIDER, RAIDER_eval
   * Primary developer of simulation code, pipeline code, analysis code
